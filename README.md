@@ -12,6 +12,6 @@ Talking about me:
 - 🔥 My interests are Problem Solving, Product development, Web-Dev. etc..;
 - 💼 I’m pursuing a Bachelor's degree in computer science and engineering;
 - 👯 Would love to collaborate on anything related to Technical stuff.
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me about anything, I am happy to help you out;
 - 📫 Please email via mamidalataran797@gmail.com to reach me.
 
