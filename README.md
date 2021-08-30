@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**TaranMamidala/TaranMamidala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey 👋, I'm Taran
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi there, I'm Taran mamidala, a cse student 🚀 from VIT-ap India, I love ❤️ to learn new technologies & concepts and build cool stuff with them. Currently, I'm in my Pre-final year of Bachelor of Engineering 💻 and I'm open to work for internships, software engineer or software intern roles; 👨🏻‍💻
+
+
+Talking about me:
+
+- 🔭 I’m currently working on various Python and data Science projects;
+- 🌱 I’m currently learning Django, javaScript frameworks;
+- 🔥 My interests are Problem Solving, Product development, Web-Dev. etc..;
+- 💼 I’m pursuing a Bachelor's degree in computer science and engineering;
+- 👯 Would love to collaborate on Maching learning projects.
+- 💬 Ask me about anything, I am happy to help;
+- 📫 Please email via mamidalataran797@gmail.com to reach me.
