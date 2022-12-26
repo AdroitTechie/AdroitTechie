@@ -13,5 +13,5 @@ Talking about me:
 - 💼 I’m pursuing a Bachelor's degree in computer science and engineering.
 - 👯 I Would love to collaborate on anything related to Technical stuff.
 - 💬 Ask me about anything, I am happy to help you out.
-- 📫 Please email via mamidalataran797@gmail.com to reach me...
+- 📫 Please email via taranmamidala14@gmail.com to reach me...
 
