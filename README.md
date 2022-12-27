@@ -6,7 +6,7 @@
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-
+Currently, Iam in my Final Year
 Computer Science Engineering Student🧑‍💻 at Vellore Institute of Technology. I love ❤️ to learn new technologies & concepts and build cool stuff with them and I like to develop new skills and utilize them to expand my knowledge in the technical field.💻 I actively look for new learning opportunities everyday as they help me progress as a professional and a person.👨  
 
 
