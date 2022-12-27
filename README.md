@@ -2,7 +2,7 @@
 ### Hey 👋, I'm Taran
 
 
-Hi there, I'm Taran mamidala, a cse student 🚀 from VIT-AP India, I love ❤️ to learn new technologies & concepts and build cool stuff with them. Currently, I'm in my Pre-final year of Bachelor of Engineering 💻 and I'm open to work for internships; 👨🏻‍💻
+Hi there, I'm Taran mamidala, a cse student 🚀 from VIT-AP India, I love ❤️ to learn new technologies & concepts and build cool stuff with them. Currently, I'm in my Final year of Bachelor of Engineering 💻 and I'm open to work for internships; 👨🏻‍💻
 
 
 Talking about me:
