@@ -41,8 +41,6 @@ Talking about me:
 
 <h2 align="left">🎯 my stats 'n' streaks 📈</h2>
 
-[![my github activity graph](https://activity-graph.herokuapp.com/graph?username=adroittechie&bg_color=0d0d0d&color=c241f1&line=d800db&point=6d0075&area=true&hide_border=true)](https://github.com/adroittechie/github-readme-activity-graph)
-
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adroittechie&theme=jolly&show_icons=true&locale=en&layout=compact" alt="Taran stats" bg_color=0d0d0d/> 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=adroittechie&theme=jolly&show_icons=true&locale=en" alt="Taran stats" bg_color=0d0d0d/> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adroittechie&theme=jolly" alt="Taran stats" bg_color=0d0d0d/>
