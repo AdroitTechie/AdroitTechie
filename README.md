@@ -4,8 +4,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=open+sans&weight=600&duration=3000&pause=10&color=C769F7&multiline=true&width=435&height=50&lines=Final+year+student+at+VIT;" alt="Typing SVG" /></a>
 
 
-
-Computer Science Engineering Student 🚀 at Vellore Institute of Technology. I love ❤️ to learn new technologies & concepts and build cool stuff with them and I like to develop new skills and utilize them to expand my knowledge in the technical field. Currently, I'm in my Final year of Bachelor of Engineering. 💻 I actively look for new learning opportunities everyday as they help me progress as a professional and a person.👨  
+Currently, I'm in my Final year of my Bachelor's. 
+Computer Science Engineering Student🧑‍💻 at Vellore Institute of Technology. I love ❤️ to learn new technologies & concepts and build cool stuff with them and I like to develop new skills and utilize them to expand my knowledge in the technical field.💻 I actively look for new learning opportunities everyday as they help me progress as a professional and a person.👨  
 
 
 Talking about me:
