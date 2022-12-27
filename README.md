@@ -6,15 +6,14 @@
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-Currently, Iam in my Final Year
-Computer Science Engineering Student🧑‍💻 at Vellore Institute of Technology. I love ❤️ to learn new technologies & concepts and build cool stuff with them and I like to develop new skills and utilize them to expand my knowledge in the technical field.💻 I actively look for new learning opportunities everyday as they help me progress as a professional and a person.👨  
+Currently, Iam in my Final Year pursuing a Bachelor's degree in computer science and engineering.🧑‍💻 at Vellore Institute of Technology. I love ❤️ to learn and explore new technologies & I like to develop new skills and utilize them to expand my knowledge in the technical field and build cool stuff with them.
+-💻 I actively look for new learning opportunities everyday as they help me progress as a professional and a person.👨  
 
 
 Talking about me:
 
 - 🔭 I’m currently working on various Python and data Science projects.
 - 🔥 My interests are Problem Solving, Product development, Web-Dev. etc..
-- 💼 I’m pursuing a Bachelor's degree in computer science and engineering.
 - 👯 I Would love to collaborate on anything related to Technical stuff.
 - 💬 Ask me about anything, I am happy to help you out.
 - 📫 Please email via taranmamidala14@gmail.com to reach me...
