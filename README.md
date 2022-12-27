@@ -1,9 +1,9 @@
 
-<h1 align="left">Hi! <img  src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="chan" width="30px" height="30px"> I'm Taran Mamidala!  </h1>
+<h1 align="left">Hi There! <img  src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="chan" width="30px" height="30px"> I'm Taran Mamidala!  </h1>
  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=open+sans&weight=600&duration=3000&pause=10&color=C769F7&multiline=true&width=435&height=100&lines=Final+year+student+at+VIT%2C+AP;" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=open+sans&weight=600&duration=3000&pause=10&color=C769F7&multiline=true&width=435&height=50&lines=Final+year+student+at+VIT%2C;" alt="Typing SVG" /></a>
 
-//#loves+to+design+user+interfaces!;currently+exploring+Machine+Learning.
+
 
 Computer Science Engineering Student 🚀 from VIT, Amaravathi India, I love ❤️ to learn new technologies & concepts and build cool stuff with them. Currently, I'm in my Final year of Bachelor of Engineering 💻 and I'm open to work for internships; 👨🏻‍💻
 
