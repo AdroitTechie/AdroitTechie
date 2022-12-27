@@ -5,13 +5,12 @@
 
 
 
-Computer Science Engineering Student 🚀 from VIT, Amaravathi India, I love ❤️ to learn new technologies & concepts and build cool stuff with them. Currently, I'm in my Final year of Bachelor of Engineering 💻 and I'm open to work for internships; 👨🏻‍💻
+Computer Science Engineering Student 🚀 at Vellore Institute of Technology. I love ❤️ to learn new technologies & concepts and build cool stuff with them and I like to develop new skills and utilize them to expand my knowledge in the technical field. Currently, I'm in my Final year of Bachelor of Engineering. 💻 I actively look for new learning opportunities everyday as they help me progress as a professional and a person.👨  
 
 
 Talking about me:
 
 - 🔭 I’m currently working on various Python and data Science projects.
-- 🌱 I’m currently learning some javaScript Frameworks.
 - 🔥 My interests are Problem Solving, Product development, Web-Dev. etc..
 - 💼 I’m pursuing a Bachelor's degree in computer science and engineering.
 - 👯 I Would love to collaborate on anything related to Technical stuff.
@@ -20,6 +19,7 @@ Talking about me:
 ---
 <br>
  🛠 &nbsp;Languages and Tools :
+ 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
