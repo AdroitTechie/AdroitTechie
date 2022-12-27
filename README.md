@@ -17,6 +17,9 @@ Talking about me:
 - 👯 I Would love to collaborate on anything related to Technical stuff.
 - 💬 Ask me about anything, I am happy to help you out.
 - 📫 Please email via taranmamidala14@gmail.com to reach me...
+---
+<br>
+### 🛠 &nbsp;Languages and Tools :
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
